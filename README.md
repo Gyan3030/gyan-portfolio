@@ -24,3 +24,8 @@ Ready for GitHub Pages from the `main` branch.
 
 ## Author
 Gyan Prakash Shukla
+
+## Certificates
+Selected verified certificates are included in the `certificates/` folder and displayed on the portfolio under **Certificates & Achievements**.
+
+The English Proficiency Certificate was intentionally not uploaded because the document states that it was issued for an education-loan purpose and not to be used for another purpose.
