@@ -1,19 +1,26 @@
 # Gyan Prakash Shukla — Portfolio
 
-Personal portfolio website built with HTML, CSS and JavaScript.
+Professional personal portfolio for Gyan Prakash Shukla.
 
-## Highlights
-- Responsive design for desktop, tablet and mobile
-- Animated navigation and scroll reveals
-- Backend/DevOps-focused skills and projects
-- Direct email, phone and GitHub contact links
-- GitHub Pages ready
+## Included
+- Java Backend Developer / DevOps Enthusiast positioning
+- About Me and Career Objective
+- Technical and professional skills
+- Featured projects
+- 1-year professional experience
+- B.Tech Computer Science Engineering
+- Leadership and technical activities
+- LinkedIn and GitHub links
+- Email contact
+- Responsive mobile layout
 
-## Run locally
-Open `index.html` in a browser, or serve the folder with any static web server.
+## Optional additions
+- Add a real professional profile photo as `profile.jpg` when available.
+- Add the real resume PDF as `resume.pdf` when available.
+- Add verified certifications only.
 
 ## Deploy
-The site can be deployed directly from the `main` branch using GitHub Pages.
+Ready for GitHub Pages from the `main` branch.
 
 ## Author
 Gyan Prakash Shukla
